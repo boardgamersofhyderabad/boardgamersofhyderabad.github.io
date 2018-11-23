@@ -5,6 +5,9 @@ description: Official Website for Board Gamers of Hyderabad
 author: Himanshu
 version: v1
 header_title: BGH
+url: https://boardgamersofhyderabad.github.io/
+
+
 fonts:
   heading: Oswald
   content: Roboto

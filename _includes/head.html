@@ -4,8 +4,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ page.description }}">
     <meta name="author" content="Himanshu">
-
+	
     <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
+
+	<meta property="og:title" content="{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{site.url}}" />
+	<meta property="og:image" content="{{site.url}}images/logo.png" />
+	
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
     <!-- Custom Fonts -->

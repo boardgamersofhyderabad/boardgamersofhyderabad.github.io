@@ -382,7 +382,7 @@ body {
 	.groupInfo{
 		margin-bottom: 2em auto;
 		img{
-			max-width:20em;
+			max-width: 40%;
 		};
 		h3{
 			maring-bottom: 20px;
@@ -403,7 +403,7 @@ body {
 	}
 	@media (min-width: 768px) {
 		.groupInfo img{
-			max-width: 40%;
+			max-width:20em;
 		};
 	};
 }

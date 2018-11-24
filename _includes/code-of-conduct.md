@@ -1,4 +1,4 @@
-**Contact**: [boardgamersofhyderabad@gmail.com](mailto: boardgamersofhyderabad@gmail.com)
+**Contact**: [boardgamersofhyderabad@gmail.com](mailto: boardgamersofhyderabad@gmail.com){:target="_blank"}
 
 We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of expertise, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 
@@ -55,7 +55,7 @@ If a community member engages in unacceptable behavior, the moderators may take 
 
 These are the policies for upholding our community's standards of conduct.
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a moderator as soon as possible. You can report inappropriate behavior you witnessed or experienced to the concerned organizer (incase you wish to discuss matters at the venue) or the moderator/admin (incase you wish to email your complaint and keep your identity a secret). You can email moderators at [boardgamersofhyderabad@gmail.com](boardgamersofhyderabad@gmail.com). All reports will be handled with discretion and if possible, the identities of those reporting violations will be kept anonymous.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a moderator as soon as possible. You can report inappropriate behavior you witnessed or experienced to the concerned organizer (incase you wish to discuss matters at the venue) or the moderator/admin (incase you wish to email your complaint and keep your identity a secret). You can email moderators at [boardgamersofhyderabad@gmail.com](boardgamersofhyderabad@gmail.com){:target="_blank"}. All reports will be handled with discretion and if possible, the identities of those reporting violations will be kept anonymous.
 
 Note: we have 4 moderators, two male and two female. This team functions independently of the group's administrators and has the authority to take action against all members, including the administrators and organizers.
 
@@ -76,7 +76,7 @@ If you wish to use this code of conduct for your own group, consider explicitly 
 
 
 
-*Adapted from the [The ReRoll Code of Conduct](https://reroll.in/code-of-conduct)[Oklahoma Board Game Community's Code of Conduct](http://okboardgame.com/code-of-conduct/) as well as [Rust's Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).*
-*This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).*
+*Adapted from the [The ReRoll Code of Conduct](https://reroll.in/code-of-conduct){:target="_blank"}, [Oklahoma Board Game Community's Code of Conduct](http://okboardgame.com/code-of-conduct/){:target="_blank"} as well as [Rust's Code of Conduct](https://www.rust-lang.org/en-US/conduct.html){:target="_blank"}.*
+*This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/){:target="_blank"}.*
 
-You can suggest edits to [this document on GitHub](https://github.com/boardgamersofhyderabad/boardgamersofhyderabad.github.io/blob/master/_includes/code-of-conduct.md).
+You can suggest edits to [this document on GitHub](https://github.com/boardgamersofhyderabad/boardgamersofhyderabad.github.io/blob/master/_includes/code-of-conduct.md){:target="_blank"}.

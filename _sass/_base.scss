@@ -291,6 +291,10 @@ article#conduct{
             opacity: 1;
         }
     }
+	.galleryHolder{
+		background-size: cover;
+		background-position: center center;
+	}
     @media (min-width: 768px) {
         .portfolio-box-caption {
             .portfolio-box-caption-content {

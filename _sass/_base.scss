@@ -292,8 +292,8 @@ article#conduct{
         }
     }
 	.galleryHolder{
-		background-size: cover;
-		background-position: center center;
+		background-size: cover!important;
+		background-position: center center!important;
 	}
     @media (min-width: 768px) {
         .portfolio-box-caption {

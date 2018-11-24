@@ -171,9 +171,19 @@ header {
         width: 100%;
         .header-content-inner {
             .mainlogo {
-				background: white;
-				max-width: 60%;
 				margin-bottom: 5em;
+				@media (min-width: 1280px) {
+					max-width: 60%;
+					margin-bottom: 5em;
+				}
+				@media (min-width: 600px) {
+					max-width: 50%;
+					margin-bottom: 1em;
+				}
+				@media (max-width: 599px) {
+					max-width: 90%;
+					max-width: 50%;
+				}
 			}
 			h1 {
                 font-weight: 700;
@@ -213,9 +223,6 @@ header {
                     margin-left: auto;
                     margin-right: auto;
                 }
-				.mainlogo{
-					max-width:25em;
-				}
             }
         }
     }

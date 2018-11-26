@@ -46,8 +46,7 @@ sections:
       - name: Meetup
         link: "hydBGC"
       widgetURL: https://meetu.ps/3jyND7
-   - name: Code of Conduct
-    link: "/code-of-conduct" 
+    
   - name: Games We Play
     heading: Games We Play
     content:
@@ -77,4 +76,7 @@ sections:
   - name: Contact
     heading: How To Reach Us
     content: You can reach us on any of our social media channels above or drop in a mail to the below email. We will reach back to you in a jiffy.
+    
+  - name: Code of Conduct
+    link: "/code-of-conduct"
 ---

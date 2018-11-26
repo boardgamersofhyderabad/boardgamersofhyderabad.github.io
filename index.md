@@ -48,7 +48,9 @@ sections:
       widgetURL: https://meetu.ps/3jyND7
 
   - name: Aside
-    heading: Conduct
+    heading: Code of Conduct
+    background-color: orange
+    font-color: white
     content: You can find our Code of Conduct and moderation policies <a href="/code-of-conduct" target="_blank">here</a>.
       
   - name: Games We Play
@@ -80,4 +82,7 @@ sections:
   - name: Contact
     heading: How To Reach Us
     content: You can reach us on any of our social media channels above or drop in a mail to the below email. We will reach back to you in a jiffy.
+
+  - name: Code of Conduct
+    link: /code-of-conduct
 ---

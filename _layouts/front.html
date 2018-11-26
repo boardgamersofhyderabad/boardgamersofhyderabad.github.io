@@ -6,23 +6,17 @@
 	  {% for thisSection in page.sections %}
 		{% if thisSection.name == 'Home' %}
 			{% include home.html %}
-		{% endif %}
-		{% if thisSection.name == 'Who We Are' %}
+		{% elsif thisSection.name == 'Who We Are' %}
 			{% include who-we-are.html %}
-		{% endif %}
-		{% if thisSection.name == 'Games We Play' %}
+		{% elsif thisSection.name == 'Games We Play' %}
 			{% include games-we-play.html %}
-		{% endif %}
-		{% if thisSection.name == 'Our Groups' %}
+		{% elsif thisSection.name == 'Our Groups' %}
 			{% include our-groups.html %}
-		{% endif %}
-		{% if thisSection.name == 'Gallery' %}
+		{% elsif thisSection.name == 'Gallery' %}
 			{% include gallery.html %}
-		{% endif %}
-		{% if thisSection.name == 'Contact' %}
+		{% elsif thisSection.name == 'Contact' %}
 			{% include contact.html %}
-		{% endif %}
-		{% if thisSection.name == 'Aside' %}
+		{% elsif thisSection.name == 'Aside' %}
 			{% include aside.html %}
 		{% endif %}
 	  {% endfor %}

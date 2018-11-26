@@ -17,7 +17,7 @@
                 {% for section in page.sections %}
 				{% if section.name != 'Aside' %}
 				<li>
-                    <a class="page-scroll" href="{% if section.link %}{{ section.link }}{% else %}#{{ section.name | slugify }}{% endif %}">{{ section.name }}</a>
+                    <a class="page-scroll" href="{% if section.link %}{{ section.link }}" target="_blank{% else %}#{{ section.name | slugify }}{% endif %}">{{ section.name }}</a>
                 </li>
 				{% endif %}
 				{% endfor %}

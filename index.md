@@ -15,7 +15,7 @@ sections:
       
       We are competitive.
       
-      We are the Twin City Board Gamers, and we invite Tabletop enthusiasts to join our clan to spread the awesomeness.
+      We are the Board Gamers of Hyderabad, and we invite Tabletop enthusiasts to join our clan to spread the awesomeness.
       
       Playing for the first time? No worries. We brief all players new to our tables before we begin.
       

@@ -9,7 +9,11 @@
 	  {{ conduct-content | markdownify }}
 	</div>
   </article>
-  {% include contact.html %}
+  {% for thisSection in page.sections %}
+  {% if thisSection.name == 'Contact' %}
+	{% include contact.html %}
+  {% endif %}
+  {% endfor %}
   {% include scripts.html %}
 </body>
 </html>

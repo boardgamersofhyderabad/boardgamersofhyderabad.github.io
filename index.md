@@ -49,7 +49,9 @@ sections:
 
   - name: Aside
     heading: Code of Conduct
-    content: You can find our Code of Conduct and moderation policies <a href="/code-of-conduct" target="_blank">here</a>.
+    content: You can find our Code of Conduct and moderation policies <a href="/code-of-conduct" target="_blank">here</a>
+	background: orange
+	color: white
       
   - name: Games We Play
     heading: Games We Play

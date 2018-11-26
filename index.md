@@ -50,8 +50,8 @@ sections:
   - name: Aside
     heading: Code of Conduct
     content: You can find our Code of Conduct and moderation policies <a href="/code-of-conduct" target="_blank">here</a>
-    background-color: orange
-    font-color: white
+    backgroundcolor: orange
+    fontcolor: white
       
   - name: Games We Play
     heading: Games We Play
@@ -82,4 +82,7 @@ sections:
   - name: Contact
     heading: How To Reach Us
     content: You can reach us on any of our social media channels above or drop in a mail to the below email. We will reach back to you in a jiffy.
+
+  - name: Code of Conduct
+    link: /code-of-conduct
 ---

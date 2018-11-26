@@ -27,3 +27,6 @@ sociallinks:
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag

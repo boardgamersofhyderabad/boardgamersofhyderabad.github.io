@@ -49,7 +49,7 @@ sections:
 
   - name: Aside
     heading: Code of Conduct
-    content: You can find our Code of Conduct and moderation policies <a href="/code-of-conduct" target="_blank"><strong>here</strong></a>
+    content: You can find our Code of Conduct and moderation policies <a href="/code-of-conduct" target="_blank"><strong><font color = "red">here </font></strong></a>
     backgroundcolor: orange
     fontcolor: white
       

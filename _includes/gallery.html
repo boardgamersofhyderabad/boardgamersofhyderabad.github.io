@@ -1,4 +1,3 @@
-{% for section in page.sections %}{% if section.name == 'Gallery' %}{% assign thisSection = section %}{% endif %}{% endfor %}
 {% assign count = 0 %}
 {% assign image_files = site.static_files | where: "image", true %}
 <section class="no-padding" id="gallery">

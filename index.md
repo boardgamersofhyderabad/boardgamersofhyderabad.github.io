@@ -20,6 +20,7 @@ sections:
       Playing for the first time? No worries. We brief all players new to our tables before we begin.
       
       So join us, for a legen(waitforit)dary time!
+	  Do read out Code of conduct [here:] ("/code-of-conduct")
   
   - name: Our Groups
     heading: Our Groups
@@ -47,6 +48,10 @@ sections:
         link: "hydBGC"
       widgetURL: https://meetu.ps/3jyND7
     
+  - name: Aside
+    heading: Conduct1
+    content: You can find our Code of Conduct and moderation policies <a href="/code-of-conduct" target="_blank">here</a>.
+  
   - name: Games We Play
     heading: Games We Play
     content:
@@ -77,6 +82,7 @@ sections:
     heading: How To Reach Us
     content: You can reach us on any of our social media channels above or drop in a mail to the below email. We will reach back to you in a jiffy.
     
-  - name: Code of Conduct
-    link: "/code-of-conduct"
+  - name: Aside
+    heading: Conduct
+    content: You can find our Code of Conduct and moderation policies <a href="/code-of-conduct" target="_blank">here</a>.
 ---

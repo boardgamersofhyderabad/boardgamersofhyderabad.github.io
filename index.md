@@ -9,17 +9,17 @@ sections:
   - name: Who We Are
     heading: Who We Are
     content: |-
-    A couple of years ago, we found out that there’s more to board gaming than childhood memories of Monopoly, Snakes and Ladders, Uno and Pictionary. Now, with our cards, Meeples and our dice, we conquer unknown lands, create species, build businesses, develop our civilizations, and spread the magic!
+      A couple of years ago, we found out that there’s more to board gaming than childhood memories of Monopoly, Snakes and Ladders, Uno and Pictionary. Now, with our cards, Meeples and our dice, we conquer unknown lands, create species, build businesses, develop our civilizations, and spread the magic!
     
-    We are passionate.
+      We are passionate.
     
-    We are competitive.
+      We are competitive.
     
-    We are the Board Gamers of Hyderabad, and we invite Tabletop enthusiasts to join our clan to spread the awesomeness.
+      We are the Board Gamers of Hyderabad, and we invite Tabletop enthusiasts to join our clan to spread the awesomeness.
     
-    Playing for the first time? No worries. We brief all players new to our tables before we begin.
+      Playing for the first time? No worries. We brief all players new to our tables before we begin.
     
-    So join us, for a legen(waitforit)dary time!
+      So join us, for a legen(waitforit)dary time!
   
   - name: Our Groups
     heading: Our Groups

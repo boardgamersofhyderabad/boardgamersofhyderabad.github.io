@@ -46,11 +46,11 @@ sections:
       - name: Meetup
         link: "hydBGC"
       widgetURL: https://meetu.ps/3jyND7
-  <!-- - name: Code of Conduct
+   - name: Code of Conduct
      heading: Code of Conduct
      content:
      Do read out Code of conduct [here:] ("/code-of-conduct")
-    link: "/code-of-conduct" -->
+    link: "/code-of-conduct" 
   - name: Games We Play
     heading: Games We Play
     content:

@@ -48,7 +48,7 @@ sections:
       widgetURL: https://meetu.ps/3jyND7
 
   - name: Aside
-    heading: Conduct
+    heading: Code of Conduct
     content: You can find our Code of Conduct and moderation policies <a href="/code-of-conduct" target="_blank">here</a>.
       
   - name: Games We Play

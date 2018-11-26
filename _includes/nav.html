@@ -15,9 +15,11 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 {% for section in page.sections %}
+				{% if section.name != 'Aside' %}
 				<li>
                     <a class="page-scroll" href="{% if section.link %}{{ section.link }}{% else %}#{{ section.name | slugify }}{% endif %}">{{ section.name }}</a>
                 </li>
+				{% endif %}
 				{% endfor %}
             </ul>
         </div>

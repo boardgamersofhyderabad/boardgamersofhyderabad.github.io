@@ -60,7 +60,7 @@ section {
 }
 
 aside {
-    padding: 50px 0;
+    padding: 3rem 0;
 }
 
 .no-padding {
@@ -232,7 +232,7 @@ header {
 
 article#conduct{
     padding: 100px 25px;
-    background: #51423f;
+    background: black;
     color: white;
 	@media (min-width: 768px) {
         padding: 100px;
@@ -384,6 +384,11 @@ img::-moz-selection {
 
 body {
     -webkit-tap-highlight-color: $theme-dark;
+}
+
+.bg-dark-aside{
+	background: black;
+	color: white;
 }
 
 .bg-groups{

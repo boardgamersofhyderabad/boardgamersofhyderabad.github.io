@@ -1,5 +1,8 @@
 <aside class="bg-dark-aside" id="{{ thisSection.heading | slugify }}">
-  <div class="container text-center">
-	  {{ thisSection.content }}
+  <div class="col-lg-8 col-lg-offset-2 text-center">
+	<h2 class="section-heading">{{ thisSection.heading }}</h2>
+	<hr class="light">
+	<p>{{ thisSection.content }}</p>
+	<hr class="light">
   </div>
 </aside>

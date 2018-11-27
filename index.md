@@ -69,7 +69,7 @@ sections:
       icon: hat-wizard
 
     - name: Area Manipulation
-      bggLink: https://boardgamegeek.com/thread/1542580/dice-manipulation
+      bggLink: https://boardgamegeek.com/boardgamemechanic/2080/area-control-area-influence
       icon: dungeon
 
   - name: Gallery

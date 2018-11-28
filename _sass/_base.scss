@@ -400,6 +400,10 @@ body {
 	background: black;
 	color: white;
 	text-align: center;
+	iframe{
+		max-width: 100%;
+		overflow-x: auto;
+	}
 	.groupInfo{
 		margin-bottom: 2em auto;
 		img{

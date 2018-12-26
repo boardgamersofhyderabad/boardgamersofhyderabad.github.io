@@ -34,7 +34,7 @@ sections:
         link: ''
       - name: Meetup
         link: "twincityBGC"
-      widgetURL: https://meetu.ps/3jyND8
+      widgetURL: twincityBGC
     - name: Hyderabad Board Gamers' Club
       platforms:
       - name: Facebook
@@ -45,7 +45,7 @@ sections:
         link: ''
       - name: Meetup
         link: "hydBGC"
-      widgetURL: https://meetu.ps/3jyND7
+      widgetURL: hydbgclub
 
   - name: Aside
     heading: Code of Conduct

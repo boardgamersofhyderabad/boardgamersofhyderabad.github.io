@@ -40,7 +40,7 @@ sections:
       - name: Facebook
         link: "hydBGC"
       - name: Instagram
-        link: "hydBGC"
+        link: "hydbgclub"
       - name: WhatsApp
         link: ''
       - name: Meetup

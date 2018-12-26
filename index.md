@@ -34,7 +34,8 @@ sections:
         link: ''
       - name: Meetup
         link: "twincityBGC"
-      widgetURL: twincityBGC
+      meetupwidgetURL: https://meetu.ps/3jyND8
+      instawidgetURL: <a href="https://instawidget.net/v/user/twincityBGC" id="link-00f3d5dc21d2ee6bd210b753b2d141a2b7c0b79660ed473134875081a4def2b9">@twincityBGC</a><script src="https://instawidget.net/js/instawidget.js?u=00f3d5dc21d2ee6bd210b753b2d141a2b7c0b79660ed473134875081a4def2b9&width=275px"></script>
     - name: Hyderabad Board Gamers' Club
       platforms:
       - name: Facebook
@@ -45,7 +46,8 @@ sections:
         link: ''
       - name: Meetup
         link: "hydBGC"
-      widgetURL: hydbgclub
+      meetupwidgetURL: https://meetu.ps/3jyND7
+      instawidgetURL: <a href="https://instawidget.net/v/user/hydbgclub" id="link-c7c7249159a7ab08a8e7055fbe7340708d3fc679a19352addf6f22ff3fa61bdd">@hydbgclub</a><script src="https://instawidget.net/js/instawidget.js?u=c7c7249159a7ab08a8e7055fbe7340708d3fc679a19352addf6f22ff3fa61bdd&width=275px"></script>
 
   - name: Aside
     heading: Code of Conduct

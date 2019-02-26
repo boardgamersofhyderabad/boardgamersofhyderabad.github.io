@@ -232,8 +232,8 @@ header {
 
 article#conduct{
     padding: 100px 25px;
-    background: black;
-    color: white;
+    color: black;
+    background: white;
 	@media (min-width: 768px) {
         padding: 100px;
     }
@@ -389,6 +389,7 @@ body {
 .bg-dark-aside{
 	background: black;
 	color: white;
+	margin: auto;
 	p{
 		font-size: 2rem;
 		margin-bottom: 0;
@@ -399,6 +400,10 @@ body {
 	background: black;
 	color: white;
 	text-align: center;
+	iframe{
+		max-width: 100%;
+		overflow-x: auto;
+	}
 	.groupInfo{
 		margin-bottom: 2em auto;
 		img{
